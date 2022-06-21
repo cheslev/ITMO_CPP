@@ -14,7 +14,7 @@ int main()
     cout.precision(2);
 
     double a, b, c, p;
-    double perimeter;
+    double square;
     double triangle_size;
     cout << "a = ";
     cin >> a;
@@ -22,11 +22,11 @@ int main()
     cin >> b;
     cout << "\nc = ";
     cin >> c;
-    perimeter = a + b + c;
-    p = perimeter / 2;
-    cout << "a + b + c = " << perimeter << endl;
+    square = a + b + c;
+    p = square / 2;
+    cout << "a + b + c = " << square << endl;
     triangle_size = sqrt(p * (p - a) * (p - b) * (p - c));
 
-    cout << "Периметр треугольника " << triangle_size;
+    cout << "Площадь треугольника " << triangle_size;
 
 }
