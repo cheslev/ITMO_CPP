@@ -1,0 +1,5 @@
+﻿  ITMO_ChesnokovL_Lab3_Control2.cpp
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab3_Control2\ITMO_ChesnokovL_Lab3_Control2\ITMO_ChesnokovL_Lab3_Control2.cpp(14,9): warning C4101: x2: неиспользованная локальная переменная
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab3_Control2\ITMO_ChesnokovL_Lab3_Control2\ITMO_ChesnokovL_Lab3_Control2.cpp(34,13): warning C4129: :
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab3_Control2\ITMO_ChesnokovL_Lab3_Control2\ITMO_ChesnokovL_Lab3_Control2.cpp(24): warning C4715: koren: значение возвращается не при всех путях выполнения
+  ITMO_ChesnokovL_Lab3_Control2.vcxproj -> C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab3_Control2\x64\Debug\ITMO_ChesnokovL_Lab3_Control2.exe
