@@ -1,0 +1,10 @@
+﻿  ITMO_ChesnokovL_Lab5_3.cpp
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(29,17): error C2664: "void show_array(const int,const int)": невозможно преобразовать аргумент 1 из "int [10]" в "const int"
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(29,13): message : Не существует контекста, в котором такое преобразование возможно
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(8,6): message : см. объявление "show_array"
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(31,43): error C2664: "void bubble_sort(int,const int,bool (__cdecl *)(int,int))": невозможно преобразовать аргумент 1 из "int [10]" в "int"
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(31,14): message : Не существует контекста, в котором такое преобразование возможно
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(11,6): message : см. объявление "bubble_sort"
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(33,17): error C2664: "void show_array(const int,const int)": невозможно преобразовать аргумент 1 из "int [10]" в "const int"
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(33,13): message : Не существует контекста, в котором такое преобразование возможно
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3\ITMO_ChesnokovL_Lab5_3.cpp(8,6): message : см. объявление "show_array"
