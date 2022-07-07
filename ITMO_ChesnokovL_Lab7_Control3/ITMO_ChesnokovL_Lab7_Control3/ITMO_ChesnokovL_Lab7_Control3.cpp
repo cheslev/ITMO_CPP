@@ -40,7 +40,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     cout << "Контрольные задания.\n";
-    cout << "Задание 2. Реализация ввода данных\n";
+    cout << "Задание 3. \n";
 
     Test();
     return 0;
