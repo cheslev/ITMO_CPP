@@ -1,0 +1,4 @@
+﻿  ITMO_ChesnokovL_AdressBook.cpp
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_AdressBook\ITMO_ChesnokovL_AdressBook\Gamer.h(36,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_AdressBook\ITMO_ChesnokovL_AdressBook\ITMO_ChesnokovL_AdressBook.cpp(80,31): warning C4018: <: несоответствие типов со знаком и без знака
+  ITMO_ChesnokovL_AdressBook.vcxproj -> C:\ITMO\ITMO_CPP\ITMO_CPP\ITMO_ChesnokovL_AdressBook\x64\Debug\ITMO_ChesnokovL_AdressBook.exe
