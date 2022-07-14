@@ -73,13 +73,13 @@ int main()
                 secondName = "not";
             }
             std::vector<int> scores;
-            unsigned int mark, numMarks;
+            unsigned int points, numPoints;
             cout << "Пожалуйста, количество сессий игр: ";
-            cin >> numMarks;
+            cin >> numPoints;
             cout << "Введите баллы за каждую игру: ";
-            for (int i = 0; i < numMarks; i++) {
-                cin >> mark;
-                scores.push_back(mark);
+            for (int i = 0; i < numPoints; i++) {
+                cin >> points;
+                scores.push_back(points);
             }
             person[n] = new Gamer(lastName, name, secondName, scores);
 
