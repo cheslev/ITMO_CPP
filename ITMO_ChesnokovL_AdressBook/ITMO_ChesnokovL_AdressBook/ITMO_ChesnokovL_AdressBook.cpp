@@ -95,7 +95,7 @@ int main()
             cout << "Есть ли отчество((у / n) ? ";
             cin >> choice;
             if (choice == 'y') {
-                cout << "Введите отчество преподавателя: ";
+                cout << "Введите отчество тренера: ";
                 cin >> secondName;
             }
             else {
